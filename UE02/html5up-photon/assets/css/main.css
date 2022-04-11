@@ -231,6 +231,10 @@ input, select, textarea {
 		text-align: left;
 	}
 
+	.centered {
+		text-align: center;
+
+	}
 	.align-center {
 		text-align: center;
 	}
